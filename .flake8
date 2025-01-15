@@ -1,3 +1,0 @@
-﻿[flake8]
-exclude = fastapi, .git, __pycache__
-max-line-length = 150
